@@ -1,3 +1,8 @@
+# Archived
+Moved to [psacc/website](https://github.com/psacc/website)
+
+---
+
 # Welcome to my website
 Feel free to contribute with PRs!
 
